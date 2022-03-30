@@ -1,0 +1,17 @@
+style.css
+
+text-align: center; h1{
+	color#223175
+	font-family: 'Lato', sans-serif;
+	front-size: 32;
+}
+
+body{
+font-family: 'Lato', sans-serif;
+background-color:rgba(22, 102, 194, 0.2);
+}
+.img-circle{
+	border-radius: 50%;
+	background-color: white;
+	text-align: center;
+}
